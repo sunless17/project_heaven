@@ -1,4 +1,4 @@
-# mini_projects
+# project heaven
 - practice projects to improve my rust skills
 
 ## hello world

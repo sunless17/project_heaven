@@ -4,7 +4,7 @@ members = ["hello_world"]
 
 [workspace.dependencies]
 anyhow = "1.0.97"
-clap = { version = "4.5.32", features = ["cargo"] }
+clap = { version = "4.5.32", features = ["derive"] }
 chrono = "0.4.40"
 rand = "0.9.0"
 reqwest = "0.12.15"
